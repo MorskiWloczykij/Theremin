@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ep18810\Downloads\Theremin\Theremin\Theremin.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=theremin.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=theremin-rectholes.txt|DrillLayers=gtl,gbl

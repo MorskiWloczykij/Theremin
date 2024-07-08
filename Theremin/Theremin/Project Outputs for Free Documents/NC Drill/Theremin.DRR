@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Theremin.PcbDoc   06.07.2024  12:50:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Theremin.TXT
+ASCII RectHoles File : Theremin-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             12        PTH        97.77mm (3.85inch)
+T2      0.8mm (31mil)                                             Round             229       PTH        1393.40mm (54.86inch)
+T3      1mm (39mil)                                               Round             23        PTH        257.50mm (10.14inch)
+T4      1mm (39mil)                                               Rectangle         3         PTH        29.18mm (1.15inch)
+T5      1.5mm (59mil)                                             Round             12        PTH        166.07mm (6.54inch)
+T6      1.8mm (71mil)                                             Round             12        PTH        110.00mm (4.33inch)
+T7      3.2mm (126mil)                                            Round             6         PTH        570.39mm (22.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              297
+
+Total Processing Time (hh:mm:ss) : 00:00:01

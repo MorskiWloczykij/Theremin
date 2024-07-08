@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Theremin.PcbDoc]
+   Generated File[Theremin.TXT]
+   Generated File[Theremin-RectHoles.TXT]
+   Generated File[Theremin.LDP]
+   Generated File[Theremin.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:50:21 On 06.07.2024
